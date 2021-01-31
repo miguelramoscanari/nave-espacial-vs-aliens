@@ -143,6 +143,164 @@ f f f f f f f f f f f f f f f f
 . . . . . b b b b b b . . . . . 
 . . . . . . . . . . . . . . . . 
 `;
+            case "image3":return img`
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbbbbbbbbbbbbbbbbbbbffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbbbfffffffffffffffffffffbbbbbfffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbfffffffffffffffffffffffffffffffbbbffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffffffffffffffffbbffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffbbbbbbbbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbfffffffffffffffffffffffffffffffffffffffbbffffffffffffffffffffffff
+ffffffffffffffffffffffffffffbfffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffffffffffffffbffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffffffffffffffbffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffbbbbbbbbbbfffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffffffffffffffbffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffbfffffffffffffffbbffffffffffbbfffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffffffffffffffbffffbffffffffffffffffffffffffffffffbffffffffffffffffffffffbffffffffffffffffffffffffffffffbbbffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffffffffffffffbffffbfffffffffffffffffffffffffffffbbfffffffffffffffffffffbffffffffffffffffffffffffffffffffffbbffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffffffbfffffffbfffbffffffffffffffffffffffffffffffbbfffffffffffffffffffffbffffffffffffffffffffffffffffffffffffbbbfffffffffbffffffffffffffffffffffff
+ffffffffffffffffffffbfffffffbfffbfffffffffffffffffffffffffffffb7bffffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffbbbbbbbffbffffffffffffffffffffffff
+ffffffffffffffffffffbfffffffbfffbfffffffffffffffffffffffffffffb7bfffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffff
+fffffffffffffffffffbfffbbbbbbbbfbfffffffffffffffffffffffffffffb77bfffffffffffffffffbfffffffffffffffffffffbfffffffffffffffffffffffffffffbffffffffffffffffffffffff
+fffffffffffffffffffbbbb77777777bbbbbffffffffffffffffffffffffffb77bffffffffffffffffbfffffffffffffffffffbbbbbbfffffffffffffffffffffffffffbffffffffffffffffffffffff
+fffffffffffffffffffb7777777777777777bbfffffffffffffffffffffffb777bffffffffffffffffbffffffffffffffffffbffffffbffffffffffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffffb7777777777777777777bbfffffffffffffffffffbb7777bfffffffffffffffbffffffffffffffffffbffffffffbfffffffffffffffffffffffffbffffffffffffffffffffffff
+fffffffffffffffffb7777777777777777777777bbfffffffffffffffbb777777bffffffffffffffbbfffffffffffffffffbffffffffffbbfffffffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffbb77777ff77777777777777777bbbbbbbbbbbbbbb77777777bffffffffffffffbbffffffffffffffffbfffffffffffffbbbbbffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffb777777ff7777777777777777777777777777777777777777bfffffffffffffbfbfffffffffffffffffffffffffffffffffffbbbfffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffb777777ffff77777777777777777777777777777777777777bfffffffffffffbfbfffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffb7777ffff7f77777777777777777777777777777777777777bffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffb77777fff7f77777777777777777777777777777777777777bfffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffb77777f7f7f77777777777777777777777777777777777777bfffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffb777777ffff77777777777777777777777777777777777777bffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffb777777777777777777777777777777777777777777777777bfffffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffb77777777777777777777777777777777777777777777777bffffffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffff
+ffffffffffffffffb7777777777777777777777777777777777777777777777bffffffffffffffffffffffbbffffffffffffffffffffffffffffffffffffffffffffffbfffffffffffffffffffffffff
+ffffffffffffffffb7777777777777777777777777777777777777777777777bffffffffffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffbfffffffffffffffffffffffff
+ffffffffffffffffb77777777777777777777777777777777777777777777bbffffffffffffffffffffffffffbfffffffbbbbfffffffffffffffffffffffffffffffffbfffffffffffffffffffffffff
+ffffffffffffffffb777777777777777777777777777777777777777777bbfffffffffffffffffffffffffffffbffffffffffbbbbbbbbbbfffffffffffffffbffffffbffffffffffffffffffffffffff
+ffffffffffffffffb777777777777777777777777777777777777777bbbffffffffffffffffffffffffffffffffbbffffffffffffffffffbbbbbbbbbbbbbbbffffffbfffffffffffffffffffffffffff
+fffffffffffffffffbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbfffffffffffffffffffffffffffffffffffffbbfffffffffffffffffffffffffffffffffffffbfffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbffffffffffffffffffffffffffffffffffbffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbfffffffffffffffffffffffffffffffbfffffffffffffffffffffffffffff
+fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbffffffffffffffffffffffffffbbffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbbffffffffffffffffffffbbffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbbfffffffffffffffbffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbbfffffffffbbfffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbbbbbbbfffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffbbbbbbbbbbbbbbbbbbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffffbbffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffbbffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffbbffffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffbfffffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffffffffbbfffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffbbbbbbbbfffbbbbbbbfffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffbbbbffbbffbbbbbbbbbbbbfffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffbbbbfffffbfbbfbbbbbbbbbbbbbbffffbbbfbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffbbbfffddddbbbbbbbfffbbbbfffbfbbbfbbbfbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffbbfbbbbbbbbbbbbbbbbbbbfffbffbfffbfbbfbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffbbbbbbbbbbbbbbbfffdbbbbbbbbfbbfbbffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffbbbdffffbbbfffbbbbbbbdfffbfbbbffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffbbffdfffffbbbbfffffffbbbbbbbbbbbfffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffbbffffdfffffbbfbbbbbbbbfffffddbbfbffbbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffbfffffdfffffbbbffffbbffffffffffbbddbbfbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbfff
+fbfffffddddddbdbdddddffbfffffffffbffbdffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbffff
+fbfffffdfffffbbfbffffddbbfffffffbfffbdffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbfffffff
+fbfffffffffffbbfbffffffdfbbffffbffffbdffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbffffffffff
+fbffffffffffbbfffbfffffdbffbbbbfffffbdffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbffffffffffff
+fbffffffffffbbfffbbbbbbdbbffffffffffbdffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbffffffffffffff
+ffbfffffffffbfbbbbffffffdbbfffffffffbdffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbffffffffffffffff
+ffbffffffffffbfffbffffffdbfbffffffffbdffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbfffffffffffffffbbf
+ffbffffffffffbffffbfffffdbfbffffffffbdffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffbbbbfff
+ffbffffffffffbffffbffffddddfffffffffdfffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffbbbfffffff
+ffbffffffffffbfffffbffdffffbbfffffffdfffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffbffffffffff
+ffbffffffffffffffffbdddfffffbfffffffdffbfbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffbfffffffffffff
+fffbffffffffffffffddffffffffbfffffffdffbbbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbbbbfbbfffffffffff
+fffbffffffffffffddffbfffffffbfffffffdffbbbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbbffffffffff
+ffffbfffffddddddffffbffffffffbffffffdffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbbfffffff
+ffffbfddddfffffffffffbfffffffbffffffdbfffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbfffffff
+fffffbffffffffffffffffbfffffffbfffffdbfffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbfffbbfffff
+fffffbffffffffffffffffbfffffffbfffffdfbffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbfffbffff
+ffffffbfffffffffffffffbfffffffbffffffdbffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbfffffff
+ffffffbfffffffffffffffbfffffffbffffffdbffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbfffff
+fffffffbffffffffffbbbbbffdffffbffffffdfffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffff
+fffffffbffffffffffffffbffdfffbbffffffdfffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffbfffffffffffffbbdbbbbffffffffdfffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffbfffffffffffffbdfffffffffffbdfffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffbfffffffffffffdffffffffffffdffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffbfffffffffffdfbfffffffffffdffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbbbbbbbbbbbbfffffffffffffffffffffffffff
+ffffffffffbffffffffffdffbffffffffffddffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbfffffbbbbbbbffbbbbbffffffffffffffffffffff
+fffffffffffbffffffffdffffbfffffffffdfffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbfffffbbfffffffbbfffffbfffffffffffffffffffff
+fffffffffbbbfffffffdffffbbbffffffffdfffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbffffffbbfffffffffffbfffffbffffffffffffffffffff
+ffffffffbffbbffffffdffbbffbbbbbffffdfffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbfffffffbffffffffffffffbbffffbfffffffffffffffffff
+ffffffffbfffbbbffffdbbffffbffbfbbbbdffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffbfffffffffffffffffbffffbffffffffffffffffff
+fffffffbbbbbbbbbbbbbdffffffbffbfddfbbbfbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffbfffffffffffffffffffbffffbfffffffffffffffff
+ffffffbffbfffffbbbbbdddddddddddbfffbffbbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffbfffffffffffffffffffffbbfffbffffffffffffffff
+ffffffbbbfbbbbbbbbffbbbfffffbffbfbbfffbfbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffbffffffbfffffffffffffffffffffffbfffbfffffffffffffff
+fffffffffbbbbfbfffbbbffbbffffbffbbffffbfbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffbfffffbfffffffffffffffffffffffffbffbfffffffffffffff
+fffffffffffffbbbbbbbbbbbbbbbbbbbbbfffbffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbfffbfffffbffffffffffffffffffffffffffbbbfffffffffffffff
+fffffffffffffffffbbbbbffffffffffffbffbfffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffbfffbbbbbbbbbbbfffffffffffffffbfffffffffffffff
+ffffffffffffffffffffffbbbfffffffffbbbbbffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffbbbbbbbbbbbffffbbfffffffffffffbfffffffffffffff
+ffffffffffffffffffffffffffffffffffffbffbbbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbfffbbfffbfffffffbbbfffbffffffffffffbfffffffffffffff
+ffffffffffffffffffffffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffbfbfffbffffffffffbbbbffffffffffffbfffffffffffffff
+fffffffffffffffffffffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffbfbffffbffffffffffffbbbbffffffffffbfffffffffffffff
+fffffffffffffffffffffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbbffbffffbbbffffffbbbbffffbbffffffffbfffffffffffffff
+ffffffffffffffffffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffbfffffffbbbbbbffffffffffbfffffffbfffffffffffffff
+ffffffffffffffffffffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbffffbffffffffffffffffffffffffbbfffffbfffffffffffffff
+ffffffffffffffffffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbfbffffbffffffffffffffffffffffffffbfffffbffffffffffffff
+fffffffffffffffffffffffffffffffffbfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbfffffbfffffffffffffffffffffffffffffffffbfffffffffffff
+fffffffffffffffffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbbffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffbffffffffffffffffffffffffffffffffffffffffffffffffff
+`;
+            case "image4":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image5":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . a f f f f f f f . . . . . 
+. . . a 1 1 1 1 1 1 1 f . . . . 
+. . . a 1 d d d d d d 1 f . . . 
+. . . a 1 1 1 d d 1 d d 1 f . . 
+. . . a d 1 d 1 1 1 1 1 1 d f . 
+. . . a 1 1 d d d d 1 1 d d 1 f 
+. . . a 1 d 1 1 1 1 1 d d 1 f . 
+. . . a 1 d 1 1 1 1 1 1 1 f . . 
+. . . a 1 d d d d d 1 1 f . . . 
+. . . a 1 1 1 1 1 1 1 f . . . . 
+. . . a f f f f f f f . . . . . 
+. . . . . . . . . . . . . . . . 
+`;
         }
         return null;
     })
@@ -183,6 +341,58 @@ b f 9 f 2 f 9 f 2 f 9 f 2 f b .
 . . b f f f f f f f f f b . . . 
 . . . b f f f f f f f b . . . . 
 . . . . b b b b b b b . . . . . 
+`];
+            case "anim2":return [img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . 7 7 7 7 . . . . . . 
+. . . . 7 7 f 7 f 7 . . . . . . 
+. . . . . . 7 7 7 . . . . . . . 
+. . . . . . 7 f 7 . . . . . . . 
+. 7 7 7 7 7 7 7 7 7 7 . . . . . 
+7 7 . . . . 7 7 . 7 7 . . . . . 
+. . . . . 7 7 7 7 . 7 7 . 7 7 7 
+. . . . 7 7 . . 7 7 . 7 7 7 . . 
+. . . . . . . . . 7 . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`, img`
+. . . . . . . . . . . . . . . . 
+. 7 7 . . . . . . . . . . . . . 
+. 7 . . . . . . . . . . 7 7 7 . 
+7 7 . . . . . . . . . . . . 7 . 
+7 . . . . . . . . . . . . . 7 . 
+7 7 . . . . 7 7 7 7 . . . 7 7 . 
+. 7 . . 7 7 f 7 f 7 7 . . 7 . . 
+. 7 . . . . 7 7 7 . . . 7 . . . 
+. . 7 7 . . 7 f 7 . . . 7 . . . 
+. 7 7 7 7 7 7 7 7 7 7 . 7 . . . 
+7 7 . . . . 7 7 . 7 7 . 7 . . . 
+. . . . . 7 7 7 7 . 7 7 7 7 7 7 
+. . . . 7 7 . . 7 7 . 7 7 7 . . 
+. . . . . . . . . 7 . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`, img`
+. . . 9 9 9 9 9 9 9 9 9 . . . . 
+. 7 7 9 9 9 9 9 9 9 9 9 . . . . 
+. 7 . 9 9 9 9 9 9 9 9 9 7 7 7 . 
+7 7 . 9 9 9 9 9 9 9 9 9 . . 7 . 
+7 . . 9 9 9 9 9 9 9 9 9 . . 7 . 
+7 7 . . . . 7 7 7 7 . . . 7 7 . 
+. 7 . . 7 7 f 7 f 7 7 . . 7 . . 
+. 7 . . . . 7 7 7 . . . 7 . . . 
+. . 7 7 . . 7 f 7 . . . 7 . . . 
+. 7 7 7 7 7 7 7 7 7 7 . 7 . . . 
+7 7 . . . . 7 7 . 7 7 . 7 . . . 
+. . . . . 7 7 7 7 . 7 7 7 7 7 7 
+. . . . 7 7 . . 7 7 . 7 7 7 . . 
+. . . . . . . . . 7 . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
 `];
         }
         return null;
