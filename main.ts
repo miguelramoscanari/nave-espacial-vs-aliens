@@ -1,0 +1,189 @@
+namespace SpriteKind {
+    export const Ovni = SpriteKind.create()
+}
+scene.setBackgroundImage(img`
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeee777777777777777eeeeeee77777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeee777777777777777777777ee77777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeee7777777777777777777777ee77777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeee777777777777777777777777e77777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeee7777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeee
+    eeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777ffffffffffffffff777eeeeeeeeeeee
+    eeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777ffffffffffffffffff77eeeeeeeeeee
+    eeeeeeeeeeeee7777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee7777777777777777fffffffffffff7777777777777fffffffffffffffffffffeeeeeeeeee
+    eeeeeeeeeee777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee777777777777777ffffffffffffff7777777777777fffffffffffffffffffffffeeeeeeee
+    eeeeeeeeee7777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee77777777777777ffffffffffffffff777777777777fffffffffffffffffffffffffeeeeee
+    eeeeeeeee777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeee7777777777777fffffffffffffffff77777777777777777ffffffffffffffffffffffeeee
+    eeeeeeeee777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff777777777777777ffffffffffffffffffffffffeee
+    eeeeeeee7777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff777777777777777ffffffffffffffffffffffffeee
+    eeeeeeee7777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff777777777777777fffffffffffffffffffffffffee
+    eeeeeeee77777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff777777777777777fffffffffffffffffffffffffee
+    eeeeeee777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff777777777777777fffffffffffffffffffffffffee
+    eeeeeee777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff777777777777777fffffffffffffffffffffffffee
+    eeeeeee777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff777777777777777fffffffffffffffffffffffffee
+    eeeeeee7777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff77777777777777777fffffffffffffffffffffffee
+    eeeeeee7777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff7777777777777777777fffffffffffffffffffffee
+    eeeeeee77777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff7777777777777777777fffffffffffffffffffffee
+    eeeeeee77777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff77777777777777777777ffffffffffffffffffffee
+    eeeeeee77777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff77777777777777777777ffffffffffffffffffff7e
+    eeeeeee77777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeee7777777777777fffffffffffffffffff777777777777777777777fffffffffffffffffff7e
+    eeeeeee777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeee7777777777777fffffffffffffffffff7777777777777777777777ffffffffffffffffff7e
+    eeeeeee777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeee777777777777fffffffffffffffffff77777777777777777777777fffffffffffffff7777
+    eeeeeee777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeee777777777777fffffffffffffffffff77777777777777777777777fffffffffffff777777
+    eeeeeee777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeee7777777777777fffffffffffffffff7777777777777777777777777777777777777777777
+    eeeeeee7777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeee777777777777fffffffffffffff777777777777777777777777777777777777777777777
+    eeeeeee7777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeee7777777777777ffffffffff777777777777777777777777777777777777777777777777
+    eeeeeee7777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeee777777777777fffffff777777777777777777777777777777777777777777777777777
+    eeeeeee77777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777777777
+    eeeeeee77777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777777777777
+    eeeeeee77777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777777777777
+    eeeeeeee777777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777777777
+    eeeeeeeee777777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee777777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777
+    eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee77777777777777777777777777777777777777777777777777777777eeeeeeeeeeeeeeeeeeeeeeeee7777777777777777777777777777777777777777777
+    `)
+effects.blizzard.startScreenEffect()
+game.showLongText("Destruye a todos los aliens, presiona a para disparar", DialogLayout.Bottom)
+let Ovni = sprites.create(img`
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . b b b b b b . . . . . 
+    . . . b b f 1 1 1 2 f b . . . . 
+    . . b f 1 1 1 1 1 1 1 f b . . . 
+    . . b 1 1 1 1 1 1 1 1 1 f b . . 
+    . b f 1 1 1 1 1 1 1 1 1 1 b . . 
+    f f f f f f f f f f f f f f f f 
+    . b f f 5 f 5 f 5 f f 5 f 5 b . 
+    . . b f f f f f f f f f f b . . 
+    . . . b f f f f f f f f b . . . 
+    . . . . b f f f f f f b . . . . 
+    . . . . . b b b b b b . . . . . 
+    . . . . . . . . . . . . . . . . 
+    `, SpriteKind.Ovni)
+controller.moveSprite(Ovni, 100, 100)
+Ovni.setFlag(SpriteFlag.StayInScreen, true)
+info.setScore(0)
+info.setLife(3)
+animation.runImageAnimation(
+Ovni,
+[img`
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . b b b b b b . . . . . 
+    . . . b b f 1 1 1 2 f b . . . . 
+    . . b f 1 1 1 1 1 1 1 f b . . . 
+    . . b 1 1 1 1 1 1 1 1 1 f b . . 
+    . b f 1 1 1 1 1 1 1 1 1 1 b . . 
+    f f f f f f f f f f f f f f f f 
+    b f 5 f 5 f 5 f 5 f 5 f 5 f b . 
+    . b f f f f f f f f f f f b . . 
+    . . b f f f f f f f f f b . . . 
+    . . . b f f f f f f f b . . . . 
+    . . . . b b b b b b b . . . . . 
+    `,img`
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . . . . . . . . . . . . 
+    . . . . . b b b b b b . . . . . 
+    . . . b b f 1 1 1 2 f b . . . . 
+    . . b f 1 1 1 5 5 1 1 f b . . . 
+    . . b 1 1 5 5 5 5 5 5 1 f b . . 
+    . b f 1 5 5 1 1 1 1 1 1 1 b . . 
+    f f f f f f f f f f f f f f f f 
+    b f 9 f 2 f 9 f 2 f 9 f 2 f b . 
+    . b f f f f f f f f f f f b . . 
+    . . b f f f f f f f f f b . . . 
+    . . . b f f f f f f f b . . . . 
+    . . . . b b b b b b b . . . . . 
+    `],
+100,
+true
+)
